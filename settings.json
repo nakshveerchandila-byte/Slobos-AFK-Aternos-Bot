@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "",NakCha-sgY2.aternos.me:47222
-    "port": 47222,
+    "ip": "NakCha-V029.aternos.me",
+    "port": 38462,
     "version": "26.1.2",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Poopest!",
         "I like to play Minecraft!"
       ]
     },
